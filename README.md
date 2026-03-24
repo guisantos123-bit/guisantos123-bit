@@ -1,6 +1,5 @@
 ## Hi there, I'm Guilherme Santos!👋
 
-<!--
 I'm a Data Science Student and Software Developer based in Lisbon, Portugal. Passionate about leveraging data to solve real-world problems and building intelligent applications.
 Currently, I'm pursuing my Master's degree in Data Science and Advanced Analytics at NOVA IMS, building upon my Software and Applications Development background from ISCTE Sintra
 
@@ -30,7 +29,8 @@ Co-developed an educational chatbot in collaboration with Magma Studio. Implemen
 Achieved a final grade of 17/20
 
 ### BAMN — Innovative Emergency Cervical Collar
-[cite_start]Designed and prototyped a foldable, custom-sized cervical collar based on bistable auxetic materials[cite: 27]. [cite_start]Awarded 2nd place among dozens of teams at the largest University Hackathon in the country (Tecstorm Health 4.0)[cite: 28].
+Designed and prototyped a foldable, custom-sized cervical collar based on bistable auxetic materials.
+Awarded 2nd place among dozens of teams at the largest University Hackathon in the country (Tecstorm Health 4.0)
 
 ## Fun Fact
-When I'm not coding or analyzing data, you can find me online or outside! [cite_start]I have a strong background in sports, including Swimming, Taekwondo, Rugby, Triathlon, and Basketball, while also having a love for videogames.
+When I'm not coding or analyzing data, you can find me online or outside! I have a strong background in sports, including Swimming, Taekwondo, Rugby, Triathlon, and Basketball, while also having a love for videogames.
