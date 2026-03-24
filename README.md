@@ -3,8 +3,6 @@
 I'm a Data Science Student and Software Developer based in Lisbon, Portugal. Passionate about leveraging data to solve real-world problems and building intelligent applications.
 Currently, I'm pursuing my Master's degree in Data Science and Advanced Analytics at NOVA IMS, building upon my Software and Applications Development background from ISCTE Sintra
 
-Here are some ideas to get you started:
-
 - I’m currently working on bridging the gap between **Software Development** and **Machine Learning**
 - I’m currently learning advanced **Deep Learning**, **Big Data Analytics**, and **Big Data Modelling**
 - How to reach me: [gmfts0609@gmail.com](mailto:gmfts0609@gmail.com)
