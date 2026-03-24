@@ -6,7 +6,7 @@ Currently, I'm pursuing my Master's degree in Data Science and Advanced Analytic
 Here are some ideas to get you started:
 
 - I’m currently working on bridging the gap between **Software Development** and **Machine Learning**
-- I’m currently learning advanced **Deep Learning**, **Big Data Analytics**, and **Big Data Modelling*
+- I’m currently learning advanced **Deep Learning**, **Big Data Analytics**, and **Big Data Modelling**
 - How to reach me: [gmfts0609@gmail.com](mailto:gmfts0609@gmail.com)
 
 ## Tech Stack
