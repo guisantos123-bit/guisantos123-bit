@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ## Featured Projects
 
-### [Pokémon Text Mining & Intelligent Search Engine]
+### Pokémon Text Mining & Intelligent Search Engine
 Developed a complete Data Science pipeline using Python. Scraped biological data from Bulbapedia, applied Natural Language Processing (NLP) and Topic Modeling (NMF) to classify Pokémon types based on text descriptions. Built an interactive search engine using fuzzy matching (Levenshtein distance) to translate natural language queries into statistical database filters.
 
 ### [Filmes_PM](https://github.com/Rafaeric71/Filmes_PM) (Contributor)
